@@ -93,3 +93,5 @@ docs/_build/
 *.tmp
 *.temp
 .cache/
+
+.claude
